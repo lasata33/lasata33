@@ -15,9 +15,10 @@
 - Systems Analysis: ER Diagrams, DFDs, Use Case Modeling
 
 ## 🎯 Goals
-- Internship-ready repositories with professional documentation
-- Expand features in existing apps
-- Build examiner-friendly reports and diagrams
+- Continuously expand project features and keep READMEs updated with screenshots and enhancements
+- Strengthen skills in web development (PHP, MySQL, JavaScript) and GUI app development (Python, C++)
+- Apply systems analysis techniques (ER diagrams, DFDs, use case modeling) to real‑world projects
+- Contribute to open‑source projects and collaborate with other developers
 
 ---
 📫 Reach me on [GitHub](https://github.com/lasata33)
