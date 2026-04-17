@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Lasata Maharjan👋
 
-<!--
-**lasata33/lasata33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web & App Developer | PHP • MySQL • Python • C++
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 📝 [To-Do App](https://github.com/lasata33/to-do-app) — Task & note manager with PHP/MySQL
+- ⏱️ [Pomodoro App](https://github.com/lasata33/pomodoro-app) — Productivity timer with Python
+- 🧮 [Cute Calculator](https://github.com/lasata33/calculator) — Tkinter GUI calculator with history & memory
+- 🌿 [Skincare Recommendation System](https://github.com/lasata33/skincare-system) — ER diagrams, DFDs, and analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Web Development: PHP, MySQL, HTML, CSS, JavaScript
+- App Development: Python (Tkinter), C++ (GUI)
+- Git & GitHub Workflow
+- Systems Analysis: ER Diagrams, DFDs, Use Case Modeling
+
+## 🎯 Goals
+- Internship-ready repositories with professional documentation
+- Expand features in existing apps
+- Build examiner-friendly reports and diagrams
+
+---
+📫 Reach me on [GitHub](https://github.com/lasata33)
