@@ -1,7 +1,7 @@
 # Hi, I'm Lasata Maharjan👋
 
 💻 Web & App Developer | PHP • MySQL • Python • C++
-
+👩🏻‍🎓 Currently Studying BIM in Prime College | Last Year 
 ## 🚀 Projects
 - 📝 [To-Do App](https://github.com/lasata33/to-do-app) — Task & note manager with PHP/MySQL
 - ⏱️ [Pomodoro App](https://github.com/lasata33/pomodoro-app) — Productivity timer with Python
