@@ -6,7 +6,7 @@
 - 📝 [To-Do App](https://github.com/lasata33/to-do-app) — Task & note manager with PHP/MySQL
 - ⏱️ [Pomodoro App](https://github.com/lasata33/pomodoro-app) — Productivity timer with Python
 - 🧮 [Cute Calculator](https://github.com/lasata33/calculator) — Tkinter GUI calculator with history & memory
-- 🌿 [Skincare Recommendation System](https://github.com/lasata33/skincare-system) — ER diagrams, DFDs, and analysis
+- 🌿 [Skincare Recommendation System](https://github.com/lasata33/skincare-system) — Product ingredient analyser and recommendation system
 
 ## 🛠️ Skills
 - Web Development: PHP, MySQL, HTML, CSS, JavaScript
@@ -15,7 +15,7 @@
 - Systems Analysis: ER Diagrams, DFDs, Use Case Modeling
 
 ## 🎯 Goals
-- Continuously expand project features and keep READMEs updated with screenshots and enhancements
+- Continuously expand project features
 - Strengthen skills in web development (PHP, MySQL, JavaScript) and GUI app development (Python, C++)
 - Apply systems analysis techniques (ER diagrams, DFDs, use case modeling) to real‑world projects
 - Contribute to open‑source projects and collaborate with other developers
