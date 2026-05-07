@@ -6,7 +6,8 @@
 - 📝 [To-Do App](https://github.com/lasata33/to-do-app) — Task & note manager with PHP/MySQL
 - ⏱️ [Pomodoro App](https://github.com/lasata33/pomodoro-app) — Productivity timer with Python
 - 🧮 [Cute Calculator](https://github.com/lasata33/calculator) — Tkinter GUI calculator with history & memory
-- 🌿 [Skincare Recommendation System](https://github.com/lasata33/skincare-system) — Product ingredient analyser and recommendation system
+- 🌿 [Skincare Recommendation System](https://github.com/lasata33/Skincare-Recommendation-System) — Product ingredient analyser and recommendation system
+- 📚 [StudBud](https://github.com/lasata33/StudBud) — A full-stack productivity web app that helps students manage their study schedule, track daily goals, and stay consistent
 
 ## 🛠️ Skills
 - Web Development: PHP, MySQL, HTML, CSS, JavaScript
@@ -22,3 +23,4 @@
 
 ---
 📫 Reach me on [GitHub](https://github.com/lasata33)
+🔗 Reach me on [LinkedIn](https://www.linkedin.com/in/lasata-maharjan-3a4504220)
